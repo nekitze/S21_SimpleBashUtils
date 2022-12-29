@@ -1,0 +1,8 @@
+abc
+ABC
+test\\\0
+\0
+    
+
+
+                        ddd

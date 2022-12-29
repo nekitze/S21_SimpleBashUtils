@@ -1,0 +1,6 @@
+s21_cat
+proverka
+test
+CLEAN
+clean
+^#include
