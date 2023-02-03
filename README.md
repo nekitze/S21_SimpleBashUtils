@@ -7,6 +7,11 @@ My implementation of Bash text utilities: cat, grep.
 2. Do ```make s21_cat``` or ```make s21_grep``` to compile executable file
 3. Run utility with argumets ```./s21_cat [-benstv] [file ...]``` or ```./s21_grep [OPTION]... PATTERNS [FILE]...```
 
+## Usage
+MY CAT             |  MY GREP
+:-------------------------:|:-------------------------:
+![](../../images/cat.gif)  |  ![](../../images/grep.gif)
+
 
 
 
