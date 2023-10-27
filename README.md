@@ -12,6 +12,7 @@ My implementation of Bash text utilities: cat, grep.
 ![cat](images/cat.gif)
 ### ```s21_grep:```<br>
 ![grep](images/grep.gif)
+
 ---
 ### ```s21_cat``` Options:
 
