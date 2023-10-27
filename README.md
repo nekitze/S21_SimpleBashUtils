@@ -9,9 +9,9 @@ My implementation of Bash text utilities: cat, grep.
 
 ## Usage
 ### ```s21_cat:```<br>
-![cat](https://user-images.githubusercontent.com/105816426/216592930-1d5928be-6c04-4216-9100-b553e2c4e80a.gif)
+![cat](images/cat.gif)
 ### ```s21_grep:```<br>
-![grep](https://user-images.githubusercontent.com/105816426/216593027-303263e5-e263-4194-bf6c-25b498761230.gif)
+![grep](images/grep.gif)
 ---
 ### ```s21_cat``` Options:
 
